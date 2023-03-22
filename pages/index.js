@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
         
-        <img className={styles.logo} src="logo.svg" alt="" />
+        <img className={styles.logo} src="Logo.svg" alt="" />
         <main className={styles.main}>
         <h1 className={styles.title}> </h1>
             
