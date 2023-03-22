@@ -14,7 +14,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
         
-        <img className={styles.logo} src="logo.svg" alt="" />
+        <img className={styles.logo} src="Logo.svg" alt="" />
       <main className={styles.main}>
         <h1 className={styles.title}> </h1>
             
